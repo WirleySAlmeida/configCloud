@@ -13,8 +13,8 @@ management:
       exposure:
         include: health,info 
 info:
-  author: Tulio L. Viglione
-  mail: tulio.l.viglione@gmail.com
+  author: Wirley Almeida  
+  mail: wirley.s.almeida@gmail.com
 server:
   port: ${PORT:9999}
 message: Generic
