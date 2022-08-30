@@ -16,5 +16,5 @@ info:
   author: Wirley Almeida  
   mail: wirley.s.almeida@gmail.com
 server:
-  port: ${PORT:9999}
+  port: ${PORT:8080}
 message: Generic
